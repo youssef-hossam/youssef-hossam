@@ -38,7 +38,7 @@ class YoussefHadwa extends Developer {
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,git,github,figma,sqlite,androidstudio&theme=dark&perline=10" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,androidstudio,vscode,git,github,figma,python,cpp&theme=dark&perline=11" alt="Tech stack"/>
 </p>
 
 <table align="center">
@@ -59,8 +59,16 @@ class YoussefHadwa extends Developer {
     <td>Firebase (Auth · Firestore · Messaging · Storage) · Stripe · Google Maps · Geolocator · AR</td>
   </tr>
   <tr>
-    <td><b>💾 Local data</b></td>
-    <td>Hive · SQLite · Shared Preferences</td>
+    <td><b>💾 Local storage</b></td>
+    <td>Hive · SQLite (sqflite) · Shared Preferences · Offline-first data handling</td>
+  </tr>
+  <tr>
+    <td><b>🧩 Features built</b></td>
+    <td>E-commerce flows (cart · checkout · admin) · Real-time chat · QR scanning · Maps & live location · Notifications · Dark/Light themes</td>
+  </tr>
+  <tr>
+    <td><b>🤖 Also explored</b></td>
+    <td>Python · Machine Learning (movie recommendation) · Computer Vision (Egyptian licence-plate detection — graduation project) · C++</td>
   </tr>
   <tr>
     <td><b>🚢 Ship it</b></td>
