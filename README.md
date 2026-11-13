@@ -21,13 +21,11 @@
 
 ```dart
 class YoussefHadwa extends Developer {
-  final role       = 'Software Engineer · Flutter Developer';
-  final currently  = ['Mobile App Instructor @ NTI (Creativa Hub)', 'Building Loqma 🍔'];
-  final experience = 'Alkashier — POS, gov inquiry system (Ministry of Electricity), Ratabli B2B';
-  final education  = 'B.Sc. Computer Science — Very Good (2025)';
-
-  final loves = ['Clean Architecture', 'BLoC', 'Smooth animations', 'Explaining things simply'];
-  final funFact = 'I teach Flutter by day and debug my own apps by night 🌙';
+  final role      = 'Flutter Developer';
+  final now       = ['Instructor @ NTI', 'Building Loqma 🍔'];
+  final shipped   = ['Kashier POS', 'Gov system auth', 'Ratabli B2B'];
+  final education = 'B.Sc. Computer Science (2025)';
+  final loves     = ['Clean Architecture', 'BLoC', 'Animations'];
 }
 ```
 
@@ -143,16 +141,11 @@ class YoussefHadwa extends Developer {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=youssef-hossam&show_icons=true&hide_border=true&bg_color=15102B&title_color=FF6B2C&icon_color=21B18F&text_color=F3F0FF&ring_color=FF6B2C&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-hossam&layout=compact&hide_border=true&bg_color=15102B&title_color=FF6B2C&text_color=F3F0FF&langs_count=6&hide=html,css,cmake,c,swift,makefile" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=youssef-hossam&hide_border=true&background=15102B&ring=FF6B2C&fire=FF6B2C&currStreakLabel=FF6B2C&sideLabels=F3F0FF&currStreakNum=F3F0FF&sideNums=F3F0FF&dates=7E76A8&stroke=2A2350" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-hossam&bg_color=15102B&color=F3F0FF&line=FF6B2C&point=21B18F&area=true&area_color=9378DF&hide_border=true&title_color=FF6B2C" alt="Activity graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/FF6B2C/youssef-hossam" alt="Contributions" width="100%"/>
 </p>
 
 ---
