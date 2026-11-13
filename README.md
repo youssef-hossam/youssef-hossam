@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/youssef-hossam">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF6B2C&center=true&vCenter=true&width=640&lines=Flutter+Developer+%26+Instructor+%40+NTI;Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+Firebase;Turning+complex+ideas+into+smooth+apps;Currently+building+Loqma+%F0%9F%8D%94+(food+delivery)" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF6B2C&center=true&vCenter=true&width=640&lines=Flutter+Developer+%26+Instructor+%40+NTI;Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+Firebase;Turning+complex+ideas+into+smooth+apps;Building+apps+people+enjoy+using" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 ```dart
 class YoussefHadwa extends Developer {
   final role      = 'Flutter Developer';
-  final now       = ['Instructor @ NTI', 'Building Loqma 🍔'];
+  final now       = 'Mobile App Instructor @ NTI';
   final shipped   = ['Kashier POS', 'Gov system auth', 'Ratabli B2B'];
   final education = 'B.Sc. Computer Science (2025)';
   final loves     = ['Clean Architecture', 'BLoC', 'Animations'];
@@ -31,7 +31,6 @@ class YoussefHadwa extends Developer {
 
 - 🧑‍🏫 Trained & mentored Flutter devs across **Zagazig, Tanta and Alexandria** at NTI.
 - 🏢 Shipped production features at **Alkashier**: full auth module (Clean Architecture + GetX + localization) for a **government system**.
-- 🚀 Building **Loqma (لُقْمَة)** — a full food-delivery app with real backend, access/refresh tokens & rich animations.
 - 💬 Ask me about **state management, app architecture, Firebase or API integration**.
 
 ---
@@ -76,15 +75,14 @@ class YoussefHadwa extends Developer {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍔 <a href="#">Loqma — لُقْمَة</a></h3>
-      <p>Food-delivery app (Talabat-style) built end-to-end against a <b>real backend</b>: full auth flow with access + refresh tokens and a Dio interceptor, multi-page animated onboarding.</p>
-      <p><code>Clean Architecture</code> <code>BLoC</code> <code>Retrofit</code> <code>freezed</code></p>
-      <p><b>🚧 In progress</b></p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🍓 <a href="https://github.com/youssef-hossam/fruit_hup_app">FruitHub</a></h3>
       <p>Fruit-shopping app <b>+ admin dashboard</b>: Google/Facebook login, multi-language UI, dynamic product control and order management.</p>
       <p><code>Clean Architecture</code> <code>Cubit</code> <code>Firebase</code> <code>Localization</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 <a href="#">Loqma</a></h3>
+      <p>Food-delivery app with a real backend: auth flow with access + refresh tokens, Dio interceptor and animated onboarding.</p>
+      <p><code>Clean Architecture</code> <code>BLoC</code> <code>Dio</code></p>
     </td>
   </tr>
   <tr>
