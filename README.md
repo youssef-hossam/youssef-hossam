@@ -19,7 +19,9 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 
 - 🚀 **Shipped to production** — event-booking apps on Google Play, a POS system and a government inquiry system.
 - 🧩 **Business → software** — I understand the workflow first, then design the app around it.
-- 🧠 **Clean code** — Clean Architecture, MVVM, SOLID, and state management with BLoC/Cubit.
+- 🧠 **Clean code** — Clean Architecture, MVVM, SOLID, and state management with BLoC & Cubit.
+- 💾 **More than APIs** — RESTful APIs *and* local databases (Hive, SQLite) for offline-first apps.
+- ⚙️ **Ship it right** — CI/CD, flavors, and crash reporting / error monitoring in production.
 - 🧑‍🏫 **Flutter instructor @ NTI** — taught **150+ students** across **4+ governorates**, with top-rated feedback.
 
 ---
@@ -55,10 +57,14 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,androidstudio,vscode,git,github,figma&theme=dark" alt="Tech stack"/>
 </p>
 
-<p align="center">
-  <b>State</b> BLoC · Cubit · GetX &nbsp;|&nbsp; <b>Network</b> REST · Dio · Retrofit &nbsp;|&nbsp; <b>Local</b> Hive · SQLite · Shared Prefs<br/>
-  <b>Services</b> Firebase · Stripe · Google Maps · ARCore &nbsp;|&nbsp; <b>Ship</b> Flavors · Localization · APK/AAB · Codemagic
-</p>
+<table align="center">
+  <tr><td><b>🧠 Architecture</b></td><td>Clean Code · Clean Architecture · MVVM · SOLID · Design Patterns</td></tr>
+  <tr><td><b>🔄 State management</b></td><td>BLoC · Cubit · GetX</td></tr>
+  <tr><td><b>🌐 Networking</b></td><td>RESTful APIs · Dio · Retrofit · Interceptors (access / refresh tokens)</td></tr>
+  <tr><td><b>💾 Local databases</b></td><td>Hive · SQLite (sqflite) · Shared Preferences · offline-first apps</td></tr>
+  <tr><td><b>🔥 Services</b></td><td>Firebase · Stripe · Google Maps · ARCore</td></tr>
+  <tr><td><b>🚢 Ship & monitor</b></td><td>CI/CD (Codemagic) · Flavors (B2B / B2C) · Localization · APK/AAB releases · Crash reporting & error monitoring (Sentry, Firebase Crashlytics)</td></tr>
+</table>
 
 ---
 
