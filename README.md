@@ -43,7 +43,7 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 
 | Project | About | Stack |
 |---|---|---|
-| 🍔 [Loqma](https://github.com/youssef-hossam/loqma_food_delivery_app) | Food delivery with a real backend & token refresh | Clean Arch · BLoC · Dio |
+| 🍔 [Loqma](https://github.com/youssef-hossam/loqma_food_delivery_app) | A complete, real-world food delivery app | Clean Arch · BLoC · Dio · REST API |
 | 🍓 [FruitHub](https://github.com/youssef-hossam/fruit_hup_app) | Shopping app + admin dashboard, social login, multi-language | Clean Arch · Cubit · Firebase |
 | 💳 [Checkout](https://github.com/youssef-hossam/checkOut_app) | Stripe payments, saved cards, discounts | Stripe · Repository Pattern |
 | ♻️ [Origami](https://github.com/salahsaads/Origami_app-main) | Exchange old items for points, then spend them in-app | Firebase · MVVM |
