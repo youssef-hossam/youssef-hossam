@@ -21,7 +21,8 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 - 🧩 **Business → software** — I understand the workflow first, then design the app around it.
 - 🧠 **Clean code** — Clean Architecture, MVVM, SOLID, and state management with BLoC & Cubit.
 - 💾 **More than APIs** — RESTful APIs *and* local databases (Hive, SQLite) for offline-first apps.
-- ⚙️ **Ship it right** — CI/CD, flavors, and crash reporting / error monitoring in production.
+- ⚙️ **Ship it right** — CI/CD with GitHub Actions & Codemagic, flavors, and crash reporting / error monitoring in production.
+- 🤝 **Team player** — comfortable with Git & GitHub workflows (branches, PRs, code reviews) and working closely with backend, QA and design teams.
 - 🧑‍🏫 **Flutter instructor @ NTI** — taught **150+ students** across **4+ governorates**, with top-rated feedback.
 
 ---
@@ -55,7 +56,7 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,androidstudio,vscode,git,github,figma&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,githubactions,androidstudio,vscode,git,github,figma&theme=dark" alt="Tech stack"/>
 </p>
 
 <table align="center">
@@ -64,7 +65,7 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
   <tr><td><b>🌐 Networking</b></td><td>RESTful APIs · Dio · Retrofit · Interceptors (access / refresh tokens)</td></tr>
   <tr><td><b>💾 Local databases</b></td><td>Hive · SQLite (sqflite) · Shared Preferences · offline-first apps</td></tr>
   <tr><td><b>🔥 Services</b></td><td>Firebase · Stripe · Google Maps · ARCore</td></tr>
-  <tr><td><b>🚢 Ship & monitor</b></td><td>CI/CD (Codemagic) · Flavors (B2B / B2C) · Localization · APK/AAB releases · Crash reporting & error monitoring (Sentry, Firebase Crashlytics)</td></tr>
+  <tr><td><b>🚢 Ship & monitor</b></td><td>CI/CD (GitHub Actions, Codemagic) · Flavors (B2B / B2C) · Localization · APK/AAB releases · Crash reporting & error monitoring (Sentry, Firebase Crashlytics)</td></tr>
 </table>
 
 ---
