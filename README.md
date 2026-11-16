@@ -30,8 +30,9 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 
 | App | What I did | |
 |---|---|---|
-| **Ratbli** — event planning (KSA) | Worked on the main consumer app | <a href="https://play.google.com/store/apps/details?id=com.ITSmart.part"><img src="https://img.shields.io/badge/Google%20Play-Ratbli-21B18F?style=flat-square&logo=googleplay&logoColor=white" alt="Ratbli"/></a> |
-| **Ratbli B2B** — events for companies | Built the **B2B version from the same codebase** using **flavors**, each flavor with its own API & config | <a href="https://play.google.com/store/apps/details?id=com.ITSmart.part.b2b"><img src="https://img.shields.io/badge/Google%20Play-Ratbli%20B2B-21B18F?style=flat-square&logo=googleplay&logoColor=white" alt="Ratbli B2B"/></a> |
+| **Ratbli** — event planning (KSA) | Worked on the main consumer app | <a href="https://play.google.com/store/apps/details?id=com.ITSmart.part"><img src="https://img.shields.io/badge/Google%20Play-Ratbli-21B18F?style=flat-square&logo=googleplay&logoColor=white" alt="Ratbli"/></a> <a href="https://apps.apple.com/app/ratbli/id1308032045"><img src="https://img.shields.io/badge/App%20Store-Ratbli-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Ratbli on the App Store"/></a> |
+| **Ratbli B2B** — events for companies | Built the **B2B version from the same codebase** using **flavors**, each flavor with its own API & config | <a href="https://play.google.com/store/apps/details?id=com.ITSmart.part.b2b"><img src="https://img.shields.io/badge/Google%20Play-Ratbli%20B2B-21B18F?style=flat-square&logo=googleplay&logoColor=white" alt="Ratbli B2B"/></a> <a href="https://apps.apple.com/app/ratbli-b2b/id6737166330"><img src="https://img.shields.io/badge/App%20Store-Ratbli%20B2B-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Ratbli B2B on the App Store"/></a> |
+| **BimoKook** — wholesale & supply shopping | Contributed to building the app: product search, favorites, reservations & home delivery | <a href="https://play.google.com/store/apps/details?id=com.bimokook.app"><img src="https://img.shields.io/badge/Google%20Play-BimoKook-21B18F?style=flat-square&logo=googleplay&logoColor=white" alt="BimoKook"/></a> <a href="https://apps.apple.com/app/bimokook/id6737545207"><img src="https://img.shields.io/badge/App%20Store-BimoKook-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="BimoKook on the App Store"/></a> |
 | **Kashier POS** | Fixed critical issues: invoice printing, pricing logic, client customizations | <a href="https://alkashier.com/">alkashier.com</a> |
 | **Gov. inquiry system** — Ministry of Electricity | Built the full **auth module** (Clean Architecture + GetX + localization) | — |
 | **JobTasker** — offline task manager | MVVM + Cubit + Hive, notifications, dark/light mode | <a href="https://play.google.com/store/apps/details?id=com.karim.jobtasker"><img src="https://img.shields.io/badge/Google%20Play-JobTasker-21B18F?style=flat-square&logo=googleplay&logoColor=white" alt="JobTasker"/></a> |
@@ -47,7 +48,7 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 | ♻️ [Origami](https://github.com/salahsaads/Origami_app-main) | Exchange old items for points, then spend them in-app | Firebase · MVVM |
 | 🧩 [AR Kids Coding](https://github.com/youssef-hossam/AR) | Teaches kids programming with 3D blocks in AR | ARCore · BLoC · GoRouter |
 | 💬 [Chat App](https://github.com/youssef-hossam/ChatApp) | Real-time messaging | Firestore · Firebase Auth |
-| 🍔 Loqma | Food delivery with a real backend & token refresh | Clean Arch · BLoC · Dio |
+| 🍔 [Loqma](https://github.com/youssef-hossam/loqma_food_delivery_app) | Food delivery with a real backend & token refresh | Clean Arch · BLoC · Dio |
 
 ---
 
