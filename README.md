@@ -45,7 +45,9 @@ A **Flutter developer** who takes a real business need and turns it into a **pro
 | Project | About | Stack |
 |---|---|---|
 | 🍔 [Loqma](https://github.com/youssef-hossam/loqma_food_delivery_app) | A complete, real-world food delivery app | Clean Arch · BLoC · Dio · REST API |
-| 🍓 [FruitHub](https://github.com/youssef-hossam/fruit_hup_app) | Shopping app + admin dashboard, social login, multi-language | Clean Arch · Cubit · Firebase |
+| 🍓 [FruitHub](https://github.com/youssef-hossam/fruit_hup_app) | Shopping app with social login, cart, orders & multi-language | Clean Arch · Cubit · Firebase |
+| 📊 [FruitHub Dashboard](https://github.com/youssef-hossam/fruit_hub_dash_board) | Admin app for FruitHub: sales overview, products & orders management, live order status for customers | Clean Arch · Cubit · Firestore · Supabase |
+| 🗺️ [Tanta Guide](https://github.com/youssef-hossam/google_maps_with_flutter) | City guide on Google Maps with custom pins, light/dark styles and live trip tracking | Google Maps · Location · Polylines |
 | 💳 [Checkout](https://github.com/youssef-hossam/checkOut_app) | Stripe payments, saved cards, discounts | Stripe · Repository Pattern |
 | ♻️ [Origami](https://github.com/salahsaads/Origami_app-main) | Exchange old items for points, then spend them in-app | Firebase · MVVM |
 | 🧩 [AR Kids Coding](https://github.com/youssef-hossam/AR) | Teaches kids programming with 3D blocks in AR | ARCore · BLoC · GoRouter |
